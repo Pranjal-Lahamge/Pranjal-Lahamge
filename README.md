@@ -34,6 +34,13 @@ Familiar with HTML5 and CSS3; working on improving my styling skills.
 
 <hr>
 
+
+<h2>Connect with Me</h2>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-lahamge-237401382) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjallahamge03@gmail.com)
+
+<hr>
+
 <h2>GitHub Stats</h2>
 
 ![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranjallahamge03-git&show_icons=true&theme=dark)
