@@ -38,6 +38,8 @@ I am a \*\*Computer Engineering student at KK Wagh Institute of Engineering(KWIE
 
 \*Familiar with syntax and basic structure:\*
 
+
+
 !\[C](https://img.shields.io/badge/c-%233178C6.svg?style=for-the-badge\&logo=c\&logoColor=white)
 
 !\[HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
