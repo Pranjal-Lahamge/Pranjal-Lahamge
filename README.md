@@ -41,8 +41,6 @@ Familiar with HTML5 and CSS3; working on improving my styling skills.
 
 <hr>
 
-<hr>
-
 <h2>🔭Current Focus</h2>
 
 Deepening my expertise in **Data Structures & Algorithms (DSA)** using **C++** to solve complex logic challenges.
