@@ -41,15 +41,11 @@ Familiar with HTML5 and CSS3; working on improving my styling skills.
 
 <hr>
 
-<h2>🔭Current Focus</h2>
+<h2>🔭 Current Focus</h2>
 
-Deepening my expertise in **Data Structures & Algorithms (DSA)** using **C++** to solve complex logic challenges.
-
-Mastering **Dart & Flutter** for building high-performance, cross-platform mobile applications.
-
-Refining my **Web Development** skills with a focus on clean, responsive UI using **HTML5 and CSS3**.
-
-
+* 🧠 **DSA with C++**: Building a strong foundation in **Data Structures and Algorithms** to enhance my problem-solving skills.
+* 📱 **App Development**: Exploring **Dart and Flutter** to understand the basics of building cross-platform mobile applications.
+* 💻 **Web Fundamentals**: Practicing **HTML5 and CSS3** to develop clean and responsive user interfaces.
 <hr>
 
 <h2>📈 GitHub Stats</h2>
