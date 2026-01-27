@@ -38,6 +38,7 @@ Familiar with HTML5 and CSS3; working on improving my styling skills.
 <h3>Tools</h3>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <hr>
 
@@ -51,5 +52,7 @@ Familiar with HTML5 and CSS3; working on improving my styling skills.
 <h2>📈 GitHub Stats</h2>
 
 ![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranjallahamge03-git&show_icons=true&theme=dark&custom_title=Pranjal%20Lahamge's%20GitHub%20Stats)
+
+![Streak](https://img.shields.io/badge/Daily_Streak-🔥_Active-181717?style=for-the-badge&logo=github)
 
 ![Pranjal's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjallahamge03-git&layout=compact&theme=dark&hide_border=false&include_all_commits=true&cache_seconds=170)
