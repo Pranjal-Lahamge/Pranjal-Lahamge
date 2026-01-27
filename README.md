@@ -53,6 +53,6 @@ Familiar with HTML5 and CSS3; working on improving my styling skills.
 
 ![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranjallahamge03-git&show_icons=true&theme=dark&custom_title=Pranjal%20Lahamge's%20GitHub%20Stats)
 
-![Streak](https://img.shields.io/badge/Daily_Streak-🔥_Active-181717?style=for-the-badge&logo=github)
+![](https://nirzak-streak-stats.vercel.app/?user=pranjallahamge03-git&theme=dark&hide_border=false)
 
 ![Pranjal's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjallahamge03-git&layout=compact&theme=dark&hide_border=false&include_all_commits=true&cache_seconds=170)
