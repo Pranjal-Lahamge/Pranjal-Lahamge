@@ -49,7 +49,7 @@ Familiar with HTML5 and CSS3; working on improving my styling skills.
 * 💻 **Web Fundamentals**: Practicing **HTML5 and CSS3** to develop clean and responsive user interfaces.
 <hr>
 
-<h2>📈 GitHub Stats</h2>
+<h2>📊 GitHub Stats</h2>
 
 ![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranjallahamge03-git&show_icons=true&theme=dark&custom_title=Pranjal%20Lahamge's%20GitHub%20Stats)
 
