@@ -57,7 +57,7 @@ Continuously working on improving consistency and hands-on coding experience.
 ![](https://nirzak-streak-stats.vercel.app/?user=Pranjal-Lahamge&theme=dark&hide_border=false)
 
 
-![Pranjal's Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pranjal-Lahamge&layout=compact&theme=dark&hide_border=false&include_all_commits=true&cache_seconds=169)
+![Pranjal's Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pranjal-Lahamge&layout=compact&theme=dark&hide_border=false&include_all_commits=true&cache_seconds=1690)
 
 
 
