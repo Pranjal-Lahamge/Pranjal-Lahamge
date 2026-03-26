@@ -54,7 +54,8 @@ Continuously working on improving consistency and hands-on coding experience.
 
 ![Pranjal's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pranjal-Lahamge&show_icons=true&theme=dark&custom_title=Pranjal%20Lahamge's%20GitHub%20Stats)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Pranjal-Lahamge&theme=dark&hide_border=false)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pranjal-Lahamge&theme=dark)](https://git.io/streak-stats)
 
 
 ![Pranjal's Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pranjal-Lahamge&layout=compact&theme=dark&hide_border=false&include_all_commits=true&cache_seconds=1690)
