@@ -58,7 +58,7 @@ Continuously working on improving consistency and hands-on coding experience.
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pranjal-Lahamge&theme=dark)](https://git.io/streak-stats)
 
 
-![Pranjal's Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pranjal-Lahamge&layout=compact&theme=dark&hide_border=false&include_all_commits=true&cache_seconds=1680)
+![Pranjal's Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pranjal-Lahamge&layout=compact&theme=dark&hide_border=false&include_all_commits=true&cache_seconds=1679)
 
 
 
