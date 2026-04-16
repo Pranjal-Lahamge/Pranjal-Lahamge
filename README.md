@@ -56,6 +56,10 @@ Continuously working on improving consistency and hands-on coding experience.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Pranjal-Lahamge&show_icons=true&theme=dark&count_private=true" height="150" alt="Pranjal's Stats" />
 
+<img src="https://github-readme-stats.vercel.app/api?username=Pranjal-Lahamge&show_icons=true&theme=transparent&hide_border=true&count_private=true&custom_title=Pranjal%20GitHub%20Stats%20(All%20Time)&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0d1117" height="150" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pranjal-Lahamge&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0d1117" height="150" />
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pranjal-Lahamge&theme=dark)](https://git.io/streak-stats)
 
