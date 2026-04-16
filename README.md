@@ -54,18 +54,13 @@ Continuously working on improving consistency and hands-on coding experience.
 
 ![Pranjal's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pranjal-Lahamge&show_icons=true&theme=dark&custom_title=Pranjal%20Lahamge's%20GitHub%20Stats)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal-Lahamge&layout=compact&theme=dark" height="150" alt="Top Languages" />
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pranjal-Lahamge&theme=dark)](https://git.io/streak-stats)
 
 
 ![Pranjal's Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pranjal-Lahamge&layout=compact&theme=dark&hide_border=false&include_all_commits=true&cache_seconds=1679)
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal-Lahamge&layout=compact&theme=default&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8B949E" height="150" alt="Top Languages" />
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pranjal-Lahamge&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=F1F6F9&text_color=8B949E" height="150" alt="Pranjal's Stats" />
 
 
 
