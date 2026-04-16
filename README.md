@@ -49,19 +49,24 @@ Continuously working on improving consistency and hands-on coding experience.
 • 🌐 Improving frontend development basics 
 <hr>
 
+
 <h2>📊 GitHub Stats</h2>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranjal-Lahamge&show_icons=true&theme=dark&count_private=true&custom_title=Pranjal's%20GitHub%20Stats%20" width="400"/>
 
 
+</p>
 
-![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranjal-Lahamge&show_icons=true&theme=dark&count_private=true&custom_title=Pranjal%20GitHub%20Stats%20(All%20Time))
+<br>
 
+<p align="left">
+  
+  <img src="https://streak-stats.demolab.com?user=Pranjal-Lahamge&theme=dark" width="400"/>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pranjal-Lahamge&theme=dark)](https://git.io/streak-stats)
+<br>
 
-
-![Pranjal's Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pranjal-Lahamge&layout=compact&theme=dark&hide_border=false&include_all_commits=true&cache_seconds=1679)
-
-
-
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal-Lahamge&layout=compact&theme=dark" width="400"/>
+</p>
