@@ -61,8 +61,9 @@ Continuously working on improving consistency and hands-on coding experience.
 <br>
 
 <p align="left">
-  
- <img src="https://github-readme-stats.vercel.app/api?username=Pranjal-Lahamge&show_icons=true&theme=dark&count_private=true&custom_title=Pranjal's%20GitHub%20Stats%20(All%20Time)&v=3" width="400"/>
+ 
+  <img src="https://streak-stats.demolab.com?user=Pranjal-Lahamge&theme=dark" width="400"/>
+
   
 </p>
 
