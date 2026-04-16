@@ -54,7 +54,7 @@ Continuously working on improving consistency and hands-on coding experience.
 
 <p align="left">
  
-<img src="https://github-readme-stats.vercel.app/api?username=Pranjal-Lahamge&show_icons=true&theme=dark&count_private=true&custom_title=Pranjal%20GitHub%20Stats%20(All%20Time)&v=3" width="400"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Pranjal-Lahamge&show_icons=true&theme=dark&v=1000"/>
   
 </p>
 
