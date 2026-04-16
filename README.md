@@ -60,6 +60,8 @@ Continuously working on improving consistency and hands-on coding experience.
 
 ![Pranjal's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pranjal-Lahamge&show_icons=true&theme=dark&custom_title=Pranjal%20Lahamge's%20GitHub%20Stats%20(All%20Time))
 
+![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranjal-Lahamge&theme=dark&hide_border=true&count_private=true&custom_title=GitHub%20Stats)
+
 <img src="https://github-readme-stats.vercel.app/api?username=Pranjal-Lahamge&show_icons=true&hide_border=false&count_private=true&bg_color=0d1117&title_color=ffffff&icon_color=58A6FF&text_color=8B949E&border_color=30363d" height="150" />
 
 
