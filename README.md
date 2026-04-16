@@ -56,6 +56,8 @@ Continuously working on improving consistency and hands-on coding experience.
 
 ![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranjal-Lahamge&show_icons=true&theme=dark&count_private=true&custom_title=Pranjal%20GitHub%20Stats%20(All%20Time))
 
+![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranjal-Lahamge&show_icons=true&theme=dark&count_private=true&custom_title=Pranjal%20GitHub%20Stats%20(All%20Time))
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pranjal-Lahamge&theme=dark)](https://git.io/streak-stats)
 
