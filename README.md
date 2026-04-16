@@ -52,7 +52,7 @@ Continuously working on improving consistency and hands-on coding experience.
 <h2>📊 GitHub Stats</h2>
 
 
-
+![Pranjal's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pranjal-Lahamge&show_icons=true&theme=dark&custom_title=Pranjal%20Lahamge's%20GitHub%20Stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Pranjal-Lahamge&show_icons=true&theme=dark&count_private=true" height="150" alt="Pranjal's Stats" />
 
