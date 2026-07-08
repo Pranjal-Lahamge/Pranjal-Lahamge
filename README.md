@@ -53,15 +53,11 @@ Continuously working on improving consistency and hands-on coding experience.
 <h2>📊 GitHub Stats</h2>
 
 
-
-
-
-
 <p align="left">
   <img src="https://github-readme-stats-swart-three-35.vercel.app/api?username=Pranjal-Lahamge&show_icons=true&theme=dark" width="400" />
 <br>
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Pranjal-Lahamge&theme=dark" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pranjal-Lahamge&theme=dark" width="400" />
 <br>
 <p align="left">
   <img src="https://github-readme-stats-swart-three-35.vercel.app/api/top-langs/?username=Pranjal-Lahamge&layout=compact&theme=dark" width="400" />
